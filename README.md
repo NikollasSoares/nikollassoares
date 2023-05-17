@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/NikollasSoares?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
+<!--
 - 🔭 I’m currently working on <a href="https://github.com/NikollasSoares/Clone-Starbucks" target="_blank">Starbucks clone</a>.
 - 🌱 I’m currently learning <strong>JS, HTML</strong> and <strong>CSS</strong>.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 ## My streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NikollasSoares&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
