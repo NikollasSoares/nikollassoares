@@ -1,3 +1,8 @@
+
+[![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NikollasSoares)
+[![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/NikollasSoares)
+[![COREI3](https://img.shields.io/badge/Intel-Core_i3_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/NikollasSoares)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on <a href="https://github.com/NikollasSoares/Clone-Starbucks" target="_blank">Starbucks clone</a>.
