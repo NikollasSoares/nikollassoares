@@ -3,7 +3,7 @@
 [![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/NikollasSoares)
 [![COREI3](https://img.shields.io/badge/Intel-Core_i3_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/NikollasSoares)
 
-### Hi there 👋
+### Hi, i'm Nikollas Soares 👋
 
 - 🔭 I’m currently working on <a href="https://github.com/NikollasSoares/Clone-Starbucks" target="_blank">Starbucks clone</a>.
 - 🌱 I’m currently learning <strong>JS, HTML</strong> and <strong>CSS</strong>.
