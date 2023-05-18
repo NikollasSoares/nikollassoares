@@ -13,17 +13,15 @@
 
 ![Metrics](https://metrics.lecoq.io/NikollasSoares?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
 
-## My streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NikollasSoares&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-## What i'm learning
-
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/NikollasSoares)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/NikollasSoares)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/NikollasSoares)
 
-## What i'm planning to learn
+## My streak
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/NikollasSoares)
-[![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/NikollasSoares)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NikollasSoares&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:gerson.simao.92@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffersonsimaogoncalves/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersonsimaogoncalves/)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
