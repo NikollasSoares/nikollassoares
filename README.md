@@ -19,7 +19,7 @@
 
 ## 🔥 My streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NikollasSoares&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NikollasSoares&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/NikollasSoares)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:soaresnikollas@outlook.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n1kollas.soares)
