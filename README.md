@@ -5,7 +5,7 @@
 
 ### Hi, i'm Nikollas Soares 👋
 
-- 🔭 I’m currently working on <a href="https://github.com/NikollasSoares/Clone-Starbucks" target="_blank">Starbucks clone</a>.
+- 🔭 I’m currently working on my <a href="https://github.com/NikollasSoares/portfolio-remake" target="_blank">personal website</a>.
 - 🌱 I’m currently learning <strong>JS, HTML</strong> and <strong>CSS</strong>.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
