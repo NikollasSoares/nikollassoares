@@ -7,19 +7,10 @@
 
 - 🔭 I’m currently working on my <a href="https://github.com/NikollasSoares/portfolio-remake" target="_blank">personal website</a>.
 - 🌱 I’m currently learning <strong>JS, HTML</strong> and <strong>CSS</strong>.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Metrics](https://metrics.lecoq.io/NikollasSoares?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/NikollasSoares)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/NikollasSoares)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/NikollasSoares)
-
-## 🔥 My streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NikollasSoares&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/NikollasSoares)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:soaresnikollas@outlook.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n1kollas.soares)
