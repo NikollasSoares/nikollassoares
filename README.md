@@ -5,8 +5,8 @@
 
 ### Hi, i'm Nikollas Soares 👋
 
-- 🔭 I’m currently working on my <a href="https://github.com/NikollasSoares/portfolio-remake" target="_blank">personal website</a>.
-- 🌱 I’m currently learning <strong>JS, HTML</strong> and <strong>CSS</strong>.
+- 🔭 I’m currently working on...
+- 🌱 I’m now learning <strong>Java</strong>.
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/NikollasSoares)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/NikollasSoares)
