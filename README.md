@@ -5,8 +5,8 @@
 
 ### Hi, i'm Nikollas Soares 👋
 
-- 🔭 I’m currently working on...
-- 🌱 I’m now learning <strong>Java and Python</strong>.
+- 🔭 Estou trabalhando atualmente em...
+- 🌱 Estou aprendendo <strong>Java and Python</strong>.
 
 <hr>
 
