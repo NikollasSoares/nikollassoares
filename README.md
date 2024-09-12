@@ -10,11 +10,6 @@
 
 <hr>
 
-[![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NikollasSoares)
-[![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/NikollasSoares)
-[![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/NikollasSoares)
-[![COREI3](https://img.shields.io/badge/Intel-Core_i3_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/NikollasSoares)
-
 ![Nikollas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikollassoares&hide=prs,contribs&show_icons=true&theme=codeSTACKr)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/NikollasSoares)
