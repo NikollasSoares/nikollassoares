@@ -5,7 +5,7 @@
 ## Eai, tudo bem? Eu sou o Nikollas 👋
 
 - 🔭 Estou trabalhando atualmente em...
-- 🌱 Estou aprendendo <strong>Java e Python</strong>.
+- 🌱 Estou aprendendo <strong>JavaScript e Python</strong>.
 
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NikollasSoares)
 [![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/NikollasSoares)
