@@ -12,15 +12,8 @@
 
 <hr>
 
-### Tenho habilidades básicas de:
-
-[![EXCEL](https://img.shields.io/badge/Microsoft_Excel-1c7343?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/NikollasSoares)
-[![POWERPOINT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://github.com/NikollasSoares)
-
 [//]: [![ACCESS](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://github.com/NikollasSoares)
 [//]: [![WORD](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/NikollasSoares)
-
-![Nikollas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikollassoares&hide=prs,contribs&show_icons=true&theme=codeSTACKr)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/NikollasSoares)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/NikollasSoares)
@@ -30,3 +23,5 @@
 
 [//]: [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/NikollasSoares)
 [//]: [![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/NikollasSoares)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
