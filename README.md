@@ -6,20 +6,15 @@
 
 - 🔭 Estou trabalhando atualmente em...
 - 🌱 Estou aprendendo <strong>JavaScript e Python</strong>.
-
-[![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NikollasSoares)
-[![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/NikollasSoares)
+<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius massa vitae ligula facilisis sollicitudin. Integer diam sem, convallis at justo ut, dapibus porta magna. Duis placerat metus eget lacus fermentum, at iaculis mi hendrerit. Suspendisse potenti. Integer eu metus nec mauris faucibus vulputate et fermentum tellus. Donec gravida pharetra viverra. Sed aliquet est a sem pellentesque, vitae cursus tellus vestibulum. Praesent maximus nibh vitae neque aliquet, eu lobortis arcu cursus.
 
 <hr>
 
 [//]: [![ACCESS](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://github.com/NikollasSoares)
 [//]: [![WORD](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/NikollasSoares)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/NikollasSoares)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/NikollasSoares)
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/NikollasSoares)
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/NikollasSoares)
-[![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NikollasSoares)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,nodejs,java,linux,figma,git,github,notion)](https://skillicons.dev)
 
 [//]: [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/NikollasSoares)
 [//]: [![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/NikollasSoares)
